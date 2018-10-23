@@ -1,0 +1,4 @@
+{
+  "extends": "../../tsconfig.json",
+  "files": ["../material-ui/src/index.d.ts"]
+}

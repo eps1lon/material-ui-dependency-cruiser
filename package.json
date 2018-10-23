@@ -1,0 +1,17 @@
+{
+  "name": "depcruise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn as-jgf && yarn jgf-to-dot && yarn dot-to-image",
+    "as-jgf": "ts-node index.ts",
+    "jgf-to-dot": "cat mui-graph.json | yarn --silent jgfdot > mui-graph.dot",
+    "dot-to-image": "neato mui-graph.dot -Gdpi=150 -Tjpeg -O"
+  },
+  "dependencies": {
+    "jgf-dot": "^1.1.1",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.3"
+  }
+}

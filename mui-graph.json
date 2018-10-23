@@ -1,0 +1,773 @@
+{
+  "graph": {
+    "directed": true,
+    "nodes": [
+      {
+        "id": "styles/withStyles"
+      },
+      {
+        "id": "types"
+      },
+      {
+        "id": "styles/createMuiTheme"
+      },
+      {
+        "id": "styles/createMixins"
+      },
+      {
+        "id": "styles/createBreakpoints"
+      },
+      {
+        "id": "styles/spacing"
+      },
+      {
+        "id": "styles"
+      },
+      {
+        "id": "styles/createPalette"
+      },
+      {
+        "id": "colors/common"
+      },
+      {
+        "id": "styles/createTypography"
+      },
+      {
+        "id": "styles/props"
+      },
+      {
+        "id": "AppBar"
+      },
+      {
+        "id": "Avatar"
+      },
+      {
+        "id": "Backdrop"
+      },
+      {
+        "id": "Badge"
+      },
+      {
+        "id": "BottomNavigationAction"
+      },
+      {
+        "id": "BottomNavigation"
+      },
+      {
+        "id": "ButtonBase"
+      },
+      {
+        "id": "Button"
+      },
+      {
+        "id": "CardActions"
+      },
+      {
+        "id": "CardContent"
+      },
+      {
+        "id": "CardHeader"
+      },
+      {
+        "id": "CardMedia"
+      },
+      {
+        "id": "Card"
+      },
+      {
+        "id": "Checkbox"
+      },
+      {
+        "id": "Chip"
+      },
+      {
+        "id": "CircularProgress"
+      },
+      {
+        "id": "Collapse"
+      },
+      {
+        "id": "CssBaseline"
+      },
+      {
+        "id": "DialogActions"
+      },
+      {
+        "id": "DialogContent"
+      },
+      {
+        "id": "DialogContentText"
+      },
+      {
+        "id": "Dialog"
+      },
+      {
+        "id": "DialogTitle"
+      },
+      {
+        "id": "Divider"
+      },
+      {
+        "id": "Drawer"
+      },
+      {
+        "id": "ExpansionPanelActions"
+      },
+      {
+        "id": "ExpansionPanelDetails"
+      },
+      {
+        "id": "ExpansionPanel"
+      },
+      {
+        "id": "ExpansionPanelSummary"
+      },
+      {
+        "id": "FormControlLabel"
+      },
+      {
+        "id": "FormControl"
+      },
+      {
+        "id": "FormGroup"
+      },
+      {
+        "id": "FormHelperText"
+      },
+      {
+        "id": "FormLabel"
+      },
+      {
+        "id": "GridList"
+      },
+      {
+        "id": "GridListTileBar"
+      },
+      {
+        "id": "GridListTile"
+      },
+      {
+        "id": "Grid"
+      },
+      {
+        "id": "IconButton"
+      },
+      {
+        "id": "Icon"
+      },
+      {
+        "id": "InputAdornment"
+      },
+      {
+        "id": "InputLabel"
+      },
+      {
+        "id": "Input"
+      },
+      {
+        "id": "LinearProgress"
+      },
+      {
+        "id": "ListItemAvatar"
+      },
+      {
+        "id": "ListItemIcon"
+      },
+      {
+        "id": "ListItem"
+      },
+      {
+        "id": "ListItemSecondaryAction"
+      },
+      {
+        "id": "ListItemText"
+      },
+      {
+        "id": "List"
+      },
+      {
+        "id": "ListSubheader"
+      },
+      {
+        "id": "MenuItem"
+      },
+      {
+        "id": "MenuList"
+      },
+      {
+        "id": "Menu"
+      },
+      {
+        "id": "MobileStepper"
+      },
+      {
+        "id": "Modal"
+      },
+      {
+        "id": "NativeSelect"
+      },
+      {
+        "id": "Paper"
+      },
+      {
+        "id": "Popover"
+      },
+      {
+        "id": "RadioGroup"
+      },
+      {
+        "id": "Radio"
+      },
+      {
+        "id": "Select"
+      },
+      {
+        "id": "SnackbarContent"
+      },
+      {
+        "id": "Snackbar"
+      },
+      {
+        "id": "StepButton"
+      },
+      {
+        "id": "StepConnector"
+      },
+      {
+        "id": "StepContent"
+      },
+      {
+        "id": "StepIcon"
+      },
+      {
+        "id": "StepLabel"
+      },
+      {
+        "id": "Stepper"
+      },
+      {
+        "id": "Step"
+      },
+      {
+        "id": "SvgIcon"
+      },
+      {
+        "id": "internal/SwitchBase"
+      },
+      {
+        "id": "Switch"
+      },
+      {
+        "id": "TableCell"
+      },
+      {
+        "id": "TablePagination"
+      },
+      {
+        "id": "Table"
+      },
+      {
+        "id": "TableRow"
+      },
+      {
+        "id": "TableSortLabel"
+      },
+      {
+        "id": "Tab"
+      },
+      {
+        "id": "Tabs"
+      },
+      {
+        "id": "Toolbar"
+      },
+      {
+        "id": "Tooltip"
+      },
+      {
+        "id": "ButtonBase/TouchRipple"
+      },
+      {
+        "id": "Typography"
+      },
+      {
+        "id": "styles/shadows"
+      },
+      {
+        "id": "styles/shape"
+      },
+      {
+        "id": "styles/transitions"
+      },
+      {
+        "id": "styles/zIndex"
+      },
+      {
+        "id": "styles/overrides"
+      },
+      {
+        "id": "styles/MuiThemeProvider"
+      },
+      {
+        "id": "styles/createStyles"
+      },
+      {
+        "id": "styles/withTheme"
+      }
+    ],
+    "edges": [
+      {
+        "source": "styles/withStyles",
+        "target": "types"
+      },
+      {
+        "source": "styles/withStyles",
+        "target": "styles/createMuiTheme"
+      },
+      {
+        "source": "styles/createMixins",
+        "target": "styles/createBreakpoints"
+      },
+      {
+        "source": "styles/createMixins",
+        "target": "styles/spacing"
+      },
+      {
+        "source": "styles/createMixins",
+        "target": "styles"
+      },
+      {
+        "source": "styles/createMixins",
+        "target": "styles/withStyles"
+      },
+      {
+        "source": "styles/createPalette",
+        "target": "types"
+      },
+      {
+        "source": "styles/createPalette",
+        "target": "colors/common"
+      },
+      {
+        "source": "styles/createTypography",
+        "target": "styles/createPalette"
+      },
+      {
+        "source": "styles/createTypography",
+        "target": "types"
+      },
+      {
+        "source": "styles/createTypography",
+        "target": "styles/withStyles"
+      },
+      {
+        "source": "styles/props",
+        "target": "AppBar"
+      },
+      {
+        "source": "styles/props",
+        "target": "Avatar"
+      },
+      {
+        "source": "styles/props",
+        "target": "Backdrop"
+      },
+      {
+        "source": "styles/props",
+        "target": "Badge"
+      },
+      {
+        "source": "styles/props",
+        "target": "BottomNavigationAction"
+      },
+      {
+        "source": "styles/props",
+        "target": "BottomNavigation"
+      },
+      {
+        "source": "styles/props",
+        "target": "ButtonBase"
+      },
+      {
+        "source": "styles/props",
+        "target": "Button"
+      },
+      {
+        "source": "styles/props",
+        "target": "CardActions"
+      },
+      {
+        "source": "styles/props",
+        "target": "CardContent"
+      },
+      {
+        "source": "styles/props",
+        "target": "CardHeader"
+      },
+      {
+        "source": "styles/props",
+        "target": "CardMedia"
+      },
+      {
+        "source": "styles/props",
+        "target": "Card"
+      },
+      {
+        "source": "styles/props",
+        "target": "Checkbox"
+      },
+      {
+        "source": "styles/props",
+        "target": "Chip"
+      },
+      {
+        "source": "styles/props",
+        "target": "CircularProgress"
+      },
+      {
+        "source": "styles/props",
+        "target": "Collapse"
+      },
+      {
+        "source": "styles/props",
+        "target": "CssBaseline"
+      },
+      {
+        "source": "styles/props",
+        "target": "DialogActions"
+      },
+      {
+        "source": "styles/props",
+        "target": "DialogContent"
+      },
+      {
+        "source": "styles/props",
+        "target": "DialogContentText"
+      },
+      {
+        "source": "styles/props",
+        "target": "Dialog"
+      },
+      {
+        "source": "styles/props",
+        "target": "DialogTitle"
+      },
+      {
+        "source": "styles/props",
+        "target": "Divider"
+      },
+      {
+        "source": "styles/props",
+        "target": "Drawer"
+      },
+      {
+        "source": "styles/props",
+        "target": "ExpansionPanelActions"
+      },
+      {
+        "source": "styles/props",
+        "target": "ExpansionPanelDetails"
+      },
+      {
+        "source": "styles/props",
+        "target": "ExpansionPanel"
+      },
+      {
+        "source": "styles/props",
+        "target": "ExpansionPanelSummary"
+      },
+      {
+        "source": "styles/props",
+        "target": "FormControlLabel"
+      },
+      {
+        "source": "styles/props",
+        "target": "FormControl"
+      },
+      {
+        "source": "styles/props",
+        "target": "FormGroup"
+      },
+      {
+        "source": "styles/props",
+        "target": "FormHelperText"
+      },
+      {
+        "source": "styles/props",
+        "target": "FormLabel"
+      },
+      {
+        "source": "styles/props",
+        "target": "GridList"
+      },
+      {
+        "source": "styles/props",
+        "target": "GridListTileBar"
+      },
+      {
+        "source": "styles/props",
+        "target": "GridListTile"
+      },
+      {
+        "source": "styles/props",
+        "target": "Grid"
+      },
+      {
+        "source": "styles/props",
+        "target": "IconButton"
+      },
+      {
+        "source": "styles/props",
+        "target": "Icon"
+      },
+      {
+        "source": "styles/props",
+        "target": "InputAdornment"
+      },
+      {
+        "source": "styles/props",
+        "target": "InputLabel"
+      },
+      {
+        "source": "styles/props",
+        "target": "Input"
+      },
+      {
+        "source": "styles/props",
+        "target": "LinearProgress"
+      },
+      {
+        "source": "styles/props",
+        "target": "ListItemAvatar"
+      },
+      {
+        "source": "styles/props",
+        "target": "ListItemIcon"
+      },
+      {
+        "source": "styles/props",
+        "target": "ListItem"
+      },
+      {
+        "source": "styles/props",
+        "target": "ListItemSecondaryAction"
+      },
+      {
+        "source": "styles/props",
+        "target": "ListItemText"
+      },
+      {
+        "source": "styles/props",
+        "target": "List"
+      },
+      {
+        "source": "styles/props",
+        "target": "ListSubheader"
+      },
+      {
+        "source": "styles/props",
+        "target": "MenuItem"
+      },
+      {
+        "source": "styles/props",
+        "target": "MenuList"
+      },
+      {
+        "source": "styles/props",
+        "target": "Menu"
+      },
+      {
+        "source": "styles/props",
+        "target": "MobileStepper"
+      },
+      {
+        "source": "styles/props",
+        "target": "Modal"
+      },
+      {
+        "source": "styles/props",
+        "target": "NativeSelect"
+      },
+      {
+        "source": "styles/props",
+        "target": "Paper"
+      },
+      {
+        "source": "styles/props",
+        "target": "Popover"
+      },
+      {
+        "source": "styles/props",
+        "target": "RadioGroup"
+      },
+      {
+        "source": "styles/props",
+        "target": "Radio"
+      },
+      {
+        "source": "styles/props",
+        "target": "Select"
+      },
+      {
+        "source": "styles/props",
+        "target": "SnackbarContent"
+      },
+      {
+        "source": "styles/props",
+        "target": "Snackbar"
+      },
+      {
+        "source": "styles/props",
+        "target": "StepButton"
+      },
+      {
+        "source": "styles/props",
+        "target": "StepConnector"
+      },
+      {
+        "source": "styles/props",
+        "target": "StepContent"
+      },
+      {
+        "source": "styles/props",
+        "target": "StepIcon"
+      },
+      {
+        "source": "styles/props",
+        "target": "StepLabel"
+      },
+      {
+        "source": "styles/props",
+        "target": "Stepper"
+      },
+      {
+        "source": "styles/props",
+        "target": "Step"
+      },
+      {
+        "source": "styles/props",
+        "target": "styles/withStyles"
+      },
+      {
+        "source": "styles/props",
+        "target": "SvgIcon"
+      },
+      {
+        "source": "styles/props",
+        "target": "internal/SwitchBase"
+      },
+      {
+        "source": "styles/props",
+        "target": "Switch"
+      },
+      {
+        "source": "styles/props",
+        "target": "TableCell"
+      },
+      {
+        "source": "styles/props",
+        "target": "TablePagination"
+      },
+      {
+        "source": "styles/props",
+        "target": "Table"
+      },
+      {
+        "source": "styles/props",
+        "target": "TableRow"
+      },
+      {
+        "source": "styles/props",
+        "target": "TableSortLabel"
+      },
+      {
+        "source": "styles/props",
+        "target": "Tab"
+      },
+      {
+        "source": "styles/props",
+        "target": "Tabs"
+      },
+      {
+        "source": "styles/props",
+        "target": "Toolbar"
+      },
+      {
+        "source": "styles/props",
+        "target": "Tooltip"
+      },
+      {
+        "source": "styles/props",
+        "target": "ButtonBase/TouchRipple"
+      },
+      {
+        "source": "styles/props",
+        "target": "Typography"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/createBreakpoints"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/createMixins"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/createPalette"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/createTypography"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/shadows"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/shape"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/spacing"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/transitions"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/zIndex"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/overrides"
+      },
+      {
+        "source": "styles/createMuiTheme",
+        "target": "styles/props"
+      },
+      {
+        "source": "styles/MuiThemeProvider",
+        "target": "styles/createMuiTheme"
+      },
+      {
+        "source": "styles/MuiThemeProvider",
+        "target": "styles/withStyles"
+      },
+      {
+        "source": "styles/createStyles",
+        "target": "styles/withStyles"
+      },
+      {
+        "source": "styles/withTheme",
+        "target": "styles/createMuiTheme"
+      },
+      {
+        "source": "styles/withTheme",
+        "target": "types"
+      }
+    ]
+  }
+}
